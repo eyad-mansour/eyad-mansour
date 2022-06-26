@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @eyad-mansour from Jordan, and i am front-end developer
+- 👋 Hi, I’m @eyad-mansour
