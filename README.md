@@ -66,7 +66,4 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <div align="center">
-<a href="#" target="_blank" >
-  <img src="svg/quotes.svg" width="846" height="150" alt="Qais Alsgher" />
-</a>
 </div>
