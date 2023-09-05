@@ -47,8 +47,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/jest-282C34?logo=jest&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
+
 
 
 
