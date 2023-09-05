@@ -64,6 +64,3 @@
   </a>
 </div>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<div align="center">
-</div>
